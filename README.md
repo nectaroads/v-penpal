@@ -1,4 +1,4 @@
-![Game logo, featuring nothing at all](Images/splash_art.jpg)
+![Game logo, featuring nothing at all](Assets/Images/splash_art.jpg)
 
 # About
 <bottom_text>
